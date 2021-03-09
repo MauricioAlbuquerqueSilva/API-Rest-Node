@@ -10,8 +10,11 @@
   "author": "Maurício Albuquerque",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "consign": "^0.1.6",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^5.11.19",
+    "mysql": "^2.18.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
